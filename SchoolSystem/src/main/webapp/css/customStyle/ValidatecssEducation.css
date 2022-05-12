@@ -1,0 +1,15 @@
+
+.form-group  input.focus{
+	outline:0px;
+	boder-color:#0000ff;
+}
+.form-group .success {
+	boder-color:#2ecc71;
+}
+
+.form-group .error {
+	boder-color:#e74c3c;
+}
+
+
+
